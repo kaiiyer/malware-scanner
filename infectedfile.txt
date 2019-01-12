@@ -1,0 +1,2 @@
+This line is clean
+This line is malicious
